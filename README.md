@@ -44,3 +44,4 @@ What should be the count for jun, 2017? What should be the next actions & soluti
     To identify trends, need to summarize the data and need to calculate mean.
 
 
+Details analysis is available in 'pycode' folder.
